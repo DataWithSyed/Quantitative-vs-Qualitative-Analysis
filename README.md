@@ -161,10 +161,3 @@ If you’re connecting to or importing data directly from a **database** (e.g., 
 > A strong analysis often **combines both approaches**, allowing data-driven insights (quantitative) to be enriched by contextual understanding (qualitative).
 
 ---
-
-## 📜 License
-
-This project is released under the **MIT License**.
-Free to use, modify, and share with proper credit.
-
----
