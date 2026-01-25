@@ -111,7 +111,7 @@ If you’re connecting to or importing data directly from a **database** (e.g., 
 ✅ **Instead:**
 
 * Focus on **data validation**, **query optimization**, and **aggregation logic**.
-* Use **parameterized queries** or **ORM frameworks** (like SQLAlchemy) for safe and efficient imports.
+* Use **parameterized queries** or **ORM frameworks** for safe and efficient imports.
 
 ---
 
